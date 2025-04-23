@@ -27,7 +27,7 @@ def order_bread():
                 sales[bread_type] += bread_count
                 print(f'{bread_type}{bread_count}개가 판매되었습니다.')
             else:
-            print(f'재고가 부족합니다. 현재 주문 가능한 수량은 {stock[bread_type]}')
+                print(f'재고가 부족합니다. 현재 주문 가능한 수량은 {stock[bread_type]}')
         else:
             print("정신체리고 똑바로 다시혀~")
 while True:
