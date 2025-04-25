@@ -19,7 +19,7 @@ Python의 기본 문법과 클래스 구조, 입출력 처리에 익숙해지기
 
 ## 🖼 실행 화면 예시
 
-![Image](https://github.com/user-attachments/assets/efc5cb9f-3f06-4218-a625-dde52f4668ad)
+![Image](https://github.com/user-attachments/assets/0c04730b-9e80-40f5-8890-1ba3c3f2781d)
 
 ---
 
